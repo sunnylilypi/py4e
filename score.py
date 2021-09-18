@@ -4,7 +4,7 @@ print(score)
 
 if score > 100 or score < 0:
     print("score input out of range")
-elif score >= 90:
+elif score >= 95:
     print("A")
 elif score >= 80:
     print("B")
