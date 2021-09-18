@@ -10,7 +10,7 @@ elif score >= 85:
     print("B")
 elif score >= 75:
     print("C")
-elif score >= 60:
+elif score >= 65:
     print("D")
 else:
     print("F")
